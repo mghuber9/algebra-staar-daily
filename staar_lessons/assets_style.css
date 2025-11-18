@@ -1,7 +1,0 @@
-/* TVAH CSS simplified */ 
-:root { --tvah-purple:#5C3BCE; --tvah-light-purple:#E5DBFA; --tvah-light-blue:#BBDBF3; --tvah-navy:#1A2340; --bg-soft:#F9FAFC;}
-body{font-family:Arial;background:var(--bg-soft);margin:0;padding:1rem;}
-.page{max-width:900px;margin:auto;background:white;padding:1rem;border-radius:10px;}
-.callout{border-left:5px solid var(--tvah-purple);background:#F3EDFF;padding:0.75rem;border-radius:8px;}
-table{border-collapse:collapse;margin:.5rem 0;} th,td{padding:.4rem .75rem;text-align:center;} th{background:var(--tvah-navy);color:white;} tr:nth-child(even) td{background:#F3F4F6;}
-details{background:var(--tvah-light-purple);padding:.5rem;border-radius:8px;}
